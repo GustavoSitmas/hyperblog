@@ -1,2 +1,5 @@
+
 # hyprtblog
-un blog invreible para el curso de git y github de platzi
+
+Repositorio de creado cuando vi el curso de git en platzi
+
